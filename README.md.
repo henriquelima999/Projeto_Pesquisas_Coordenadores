@@ -1,5 +1,5 @@
 Projeto aplicado de Ciência de Dados.
 
-Me foi solicitado algo parecido no trabalho, então aproveitei e desenvolvi algo maior para que fosse meu Projeto Final da Pós-Graduação na XPE.
+Me foi solicitado algo parecido no trabalho, então aproveitei e desenvolvi algo maior para que fosse meu Projeto Final da Pós-Graduação na XPE. A ideia era monitorar as pesquisas realizadas pelos coordenadores.
 
 Foi extraído a planilha original do sistema e tratado os dados utilizando Jupyter Notebook, Python e o VSCode. Em seguida, carregado as 2 planilhas com os dados limpos no PowerBI, onde foi necessário a criação de mais tabelas e colunas para a criação dos filtros no Dashboard e feito os devidos relacionamentos das tabelas.
