@@ -1,5 +1,24 @@
-Projeto aplicado de Ciência de Dados.
+# 📊 Projeto Aplicado de Ciência de Dados
 
-Me foi solicitado algo parecido no trabalho, então aproveitei e desenvolvi algo maior para que fosse meu Projeto Final da Pós-Graduação na XPE. A ideia era monitorar as pesquisas realizadas pelos coordenadores.
+Este projeto foi desenvolvido como parte do meu **Projeto Final da Pós-Graduação em Ciência de Dados na XPE**. Ele tem como objetivo **monitorar as pesquisas realizadas pelos coordenadores** da empresa onde trabalho.
 
-Foi extraído a planilha original do sistema e tratado os dados utilizando Jupyter Notebook, Python e o VSCode. Em seguida, carregado as 2 planilhas com os dados limpos no PowerBI, onde foi necessário a criação de mais tabelas e colunas para a criação dos filtros no Dashboard e feito os devidos relacionamentos das tabelas.
+## 🚀 Tecnologias Utilizadas
+- **Jupyter Notebook** e **Python** (para tratamento e limpeza dos dados)
+- **VS Code** (ambiente de desenvolvimento)
+- **Power BI** (para visualização e construção do dashboard)
+
+## 🔎 Etapas do Projeto
+1. **Extração dos dados**: A planilha original foi extraída do sistema da empresa.
+2. **Tratamento e limpeza dos dados**: 
+   - Utilização do **Jupyter Notebook** e **Python (Pandas)** para organizar e limpar os dados.
+3. **Criação do Dashboard no Power BI**:
+   - Importação das **duas planilhas limpas** para o Power BI.
+   - Criação de **novas tabelas e colunas** para filtros.
+   - Configuração dos **relacionamentos entre tabelas**.
+   - Desenvolvimento do **dashboard interativo**.
+
+## 📌 Estrutura do Repositório
+📂 **Dashboard_PowerBI** → Contém o arquivo `.pbix` com o dashboard.  
+📂 **Analise_Python** → Código do Jupyter Notebook `.ipynb` usado para tratar os dados.  
+📂 **Dados** → Arquivo original `.xlsx` exportado do sistema para análise. 
+📂 **DadosLimpos** → Arquivos `.xlsx` usados no projeto. 
